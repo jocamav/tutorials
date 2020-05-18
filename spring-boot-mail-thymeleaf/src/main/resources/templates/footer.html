@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<div th:fragment="signature">
+    <p>
+        Saluditos. Kind regards,<br>
+        <em th:text="${senderName}"></em> <br/>
+    </p>
+    <p>
+        You can find <b>your inlined image</b> just below this text.
+    </p>
+    <img src="cid:attachment.jpg"/>
+</div>
+</body>
+</html>

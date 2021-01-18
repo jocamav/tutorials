@@ -4,5 +4,5 @@ This project is a sample of how Spring Boot can speed up your development and yo
 
 ### Related articles
 
-* [Building an Application with Spring Boot](https://jocamav.github.io/spring-boot/spring/2020/01/08/building-an-application-spring-boot.html)
+* [Building an Application with Spring Boot](https://jocamav.github.io/en/spring-boot/2021/01/15/building-an-application-spring-boot.html)
 

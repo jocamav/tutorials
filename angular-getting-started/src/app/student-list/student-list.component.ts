@@ -6,7 +6,6 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./student-list.component.css']
 })
 export class StudentListComponent implements OnInit {
-
   students = [
     'Harry Potter',
     'Ron Weasley',
@@ -15,9 +14,10 @@ export class StudentListComponent implements OnInit {
     'Cedric Diggory'
   ];
 
-  constructor() { }
+  constructor() {
+  }
 
-  ngOnInit() {
+  ngOnInit(): void {
   }
 
 }

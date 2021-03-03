@@ -1,4 +1,4 @@
-package com.jocamav.springbootreststart;
+package com.jocamav.springbootrest.start;
 
 public class Person {
 
